@@ -15,8 +15,8 @@ An AI-powered agriculture weather reporting tool that provides farmers with real
 ---
 
 ## Tech Stack
-- Backend: Python / Node.js
-- APIs: OpenWeatherMap, Weatherstack, or other weather APIs
-- Frontend: React / HTML + CSS + JS
-- Optional: Database (Firebase / MongoDB) to track weather history and alerts
-v
+- Backend: Python
+- APIs: OpenWeatherMap, Weatherstack
+- Frontend:  HTML + CSS + JS
+
+
